@@ -140,7 +140,7 @@ export default function Home() {
                 className="text-2xl font-bold bg-gradient-to-r from-emerald-400 to-green-600 bg-clip-text text-transparent cursor-pointer"
                 onClick={() => scrollToSection("home")}
               >
-                Sharangan
+                Sharangan Test baabaa
               </div>
 
               {/* Desktop Menu */}
